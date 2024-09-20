@@ -40,6 +40,10 @@ The first two stages of the data science methodology:
 Methodology aims to answer 10 basic questions in a prescribed sequence:
 ![methodology in a nutshell](images/02.png)
 
+In data mining, the Cross Industry Process for Data Mining (CRISP-DM) methodology is widely used.
 
+### What is CRISP-DM?
+The CRISP-DM methodology is a process aimed at increasing the use of data mining over a wide variety of business applications and industries. The intent is to take case-specific scenarios and general behaviors to make them domain-neutral. CRISP-DM is comprised of six steps with an entity that has to be implemented in order to have a reasonable chance of success.
+![CRISP-DM Satages](images.03.png)
 
   
