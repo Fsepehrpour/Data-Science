@@ -1,4 +1,4 @@
-# Data Science Methodology - Section 01
+# Data Science Methodology
 
 The first two stages of the data science methodology:
 1. Business understanding
