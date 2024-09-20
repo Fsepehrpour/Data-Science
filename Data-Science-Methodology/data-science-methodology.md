@@ -35,6 +35,7 @@ The first two stages of the data science methodology:
 * Feedback
 
 ### What is a methodology?
+![methodology](images/01.png)
 
 
 
