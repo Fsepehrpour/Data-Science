@@ -17,5 +17,25 @@ The first two stages of the data science methodology:
 * Create a decision tree to classify outcomes in a case study.
 * Identify appropriate data sources to address a business problem.
 
+## Syllabus
+### Module 1: From Problem to Approach and from Requirements to Collection
+* Business Understanding
+* Analytic Approach
+* Data Requirements
+* Data Collection
+
+### Module 2: From Understanding to Preparation and from Modeling to Evaluation
+* Data Understanding
+* Data Preparation
+* Modeling
+* Evaluation
+
+### Module 3: From Deployment to Feedback
+* Deployment
+* Feedback
+
+### What is a methodology?
+
+
 
   
