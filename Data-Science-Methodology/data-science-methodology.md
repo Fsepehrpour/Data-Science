@@ -47,4 +47,14 @@ The CRISP-DM methodology is a process aimed at increasing the use of data mining
 
 ![CRISP-DM Satages](images/03.png)
 
-  
+CRISP-DM, which stands for Cross-Industry Standard Process for Data Mining, is an industry-proven way to guide your data mining efforts.
+
+* As a methodology, it includes descriptions of the typical phases of a project, the tasks involved with each phase, and an explanation of the relationships between these tasks.
+* As a process model, CRISP-DM provides an overview of the data mining life cycle.
+
+The CRISP-DM model is flexible and can be customized easily. For example, if your organization aims to detect money laundering, you will likely sift through large amounts of data without a specific modeling goal.
+
+Instead of modeling, your work will focus on data exploration and visualization to uncover suspicious patterns in financial data. CRISP-DM allows you to create a data mining model that fits your particular needs.
+
+In such a situation, the modeling, evaluation, and deployment phases might be less relevant than the data understanding and preparation phases. However, it is still important to consider some of the questions raised during these later phases for long-term planning and future data mining goals.
+
