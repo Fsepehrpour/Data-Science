@@ -37,6 +37,9 @@ The first two stages of the data science methodology:
 ### What is a methodology?
 ![methodology](images/01.png)
 
+Methodology aims to answer 10 basic questions in a prescribed sequence:
+![methodology in a nutshell](images/02.png)
+
 
 
   
