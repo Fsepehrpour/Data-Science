@@ -69,3 +69,5 @@ _**4. Modeling.**_ Once prepared for use, the data must be expressed through wha
 5. Evaluation. The selected model must be tested. This is usually done by having a preselected test, set to run the trained model on. This will allow you to see the effectiveness of the model on a set it sees as new. Results from this are used to determine the efficacy of the model and foreshadow its role in the next and final stage.
 _**6. Deployment.**_ In the deployment step, the model is used on new data outside of the scope of the dataset and by new stakeholders. The new interactions at this phase might reveal the new variables and needs for the dataset and model. These new challenges could initiate revision of either business needs and actions, or the model and data, or both.
 
+### From Problem to Approach
+
